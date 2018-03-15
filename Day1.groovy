@@ -3,5 +3,20 @@ s = "()(((()))(()()()((((()(((())(()(()((((((()(()(((())))((()(((()))((())(()(((
 println s.findAll{ it == "("}.size() - s.findAll{ it == ")"}.size()
 
 
+int pos,mov,count = 0
+s.split("").each{
+  if(it == "(") {
+    mov += 1
+  }else if (it == ")") {
+    mov -= 1
+  }
+  if (mov == -1 ){
+    pos = count
+    println count
+  }
+  count++
+}
 
-
+println pos
+println count
+println s.size()
