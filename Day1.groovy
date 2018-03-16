@@ -3,19 +3,6 @@ s = "()(((()))(()()()((((()(((())(()(()((((((()(()(((())))((()(((()))((())(()(((
 
 println "Santa should go to: ${(s.findAll{ it == '('}.size() - s.findAll{ it == ')'}.size())} floor"
 
-int mov,count = 0
-s.split("").each{
-  if(it == "(") {
-    mov += 1
-  }else if (it == ")") {
-    mov -= 1
-  }
-  if (mov == -1){
-    println "Position of the first character that causes Santa to enter the basement ${count}"
-  }
-  count++
-}
-
 findBasement(s.split(""), s.split("").size(), 0,0)
 
 void findBasement(String[] sequence, int size, int position, int floor){
@@ -23,7 +10,7 @@ void findBasement(String[] sequence, int size, int position, int floor){
     println "End of array"
   }else{
     if(floor == -1)
-      println "position: ${position} for floor: ${floor}"
+      println "The position of the first character that causes santa enter to the basement(${floor}) is: ${position}"
     else if(sequence[position] == "(")
       findBasement(sequence,size,++position,++floor)
     else if(sequence[position] == ")")
