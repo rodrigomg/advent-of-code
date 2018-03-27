@@ -2,14 +2,14 @@ s = "()(((()))(()()()((((()(((())(()(()((((((()(()(((())))((()(((()))((())(()(((
 
 println "Santa should go to: ${(s.findAll{ it == '('}.size() - s.findAll{ it == ')'}.size())} floor"
 
-findBasement(s.split(""), s.split("").size(), 0,0)
+findBasement(s.split(""), s.split("").size(), 1,0)
 
 void findBasement(String[] sequence, int size, int position, int floor){
   if(position == size){
     println "End of array"
   }else{
     if(floor == -1)
-      println "The position of the first character that causes santa enter to the basement(${floor}) is: ${position}"
+      println "The position of the first character that causes santa enter to the basement(${floor}) is: ${position-1}"
     else if(sequence[position] == "(")
       findBasement(sequence,size,++position,++floor)
     else if(sequence[position] == ")")
