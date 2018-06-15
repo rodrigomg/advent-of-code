@@ -1,0 +1,53 @@
+1) Bienvenida
+  * Se define el tiempo disponible para completar la retrospectiva.
+  * Se describe el objetivo de la retrospectiva basado en los datos obtenidos de la iteración.
+2) Realizar un pequeño check-in
+  * Ejemplo: Dime en una o dos palabras, ¿cómo te sientes hasta antes de empezar estar retrospectiva?.
+3) Hacer consenso de como se deben generar los acuerdos de la iteración.
+4) Se describe el proceso para mostrar los datos de la iteración por terminar, generar una lluvia de ideas, descubrir posibles causas de los datos mostrados y generar escenarios de solución para porder seleccionar uno para su ejecución en la siguiente iteración.
+5) Mostrados los datos se da tiempo al equipo para que escriba en post it´s las causas de los problemas. Al termino del tiempo se deben pegar en algún espacio visible pasa todos los participantes de la reunión.
+6) El facilitador analiza los post it´s para encontrar causas comúnes de estos problemas.
+7) Se agrupan elementos comunes y se cuestiona al equipo sobre ellos.
+8) Se decide cual es el problema o grupo principal analizado y se genera una lluvia de ideas para encontrar posibles soluciones, debe ser los mas organizado posible, por ejemplo dos ideas por persona.
+9) Se debe elegir acciones o compromisos a realizar en la siguiente iteración.
+10) De ser posible se selecciona el siguiente resposable de retroalimentación y se cierra la reunión.
+11) Se deben definir acuerdos o reglas que podráin aplicar para todas las retrospectivas, esto puedo tomar 10 o 15 minutos.
+  * Un consejo es pedir al equipo que todos sean resposables de vigilar que las reglas se cumplan.
+
+Preparar el escenario
+  * Una manera de alentar la participación de un integrante poco participativo es pregunatrle su nombre dentros de los primeros 5 minutos de la retrospectiva.
+  * Debemos detectar el conjunto de valores que tiene el equipo o la institución, se pueden pedir ejemplos de esos valores aplicados al trabajo y así generar los compromisos de la siguiente retrospectiva.
+  * Por grupo de iteraciones no debe haber mas de 10 acuerdos o compromisos.
+  * Los valores del equipo y los acuerdos de trabajo ayudan a mantener productivas las conversaciones y las interacciones.
+
+Reunir datos
+  * Mostrar los datos de la iteración, graficos, tarjetas, los datos que se puedan pedir.
+  * Es muy importante dar tiempo para saber como se siente el equipo con el durante la iteración.
+    * Si es dificil hablar de sentimientos en un equipo se pueden usar ciertas preguntas para logar este cometido. Ejemplos:
+      ¿Cuándo te sentiste emocionado de venir a trabajar?
+      ¿Cuádo veniste a trabajar por ser solo tu trabajo?
+      ¿Cuándo te sentiste incomodo y con miedo de venir a trabajar?
+      ¿Cuáles fueron las cosas que te gustaron de esta iteración?
+      ¿Cuáles fueron las cosas que no te gustaron de esta iteración?
+      ¿Cómo te sentiste en esta iteración?
+      ¿Cuándo te sentiste triste, enojado, contento, frustado, animado... etc durante la iteración?
+  * Y como se siente el equipo con los resultados obtenidos en la iteración.
+
+Generar estadísticas
+  * Es momento de cuestión el ¿Por qué? de los resultados y empezar a pensar en que se debería hacer difente.
+  * Motsrados los números hay que guiar al equipo a que determine la condiciones, patrones para el éxito o fallo en la iteración, invistigar posibles riegos y elementos inesperados.
+  * Es tiempo de que el equipo piense en conjunto.
+  * Las habilidades adquiridas se pueden reusar, como el mapa mental.
+
+Decidir que hacer
+  * Ya se tienen una lista de posibles experimentos de mejora, no se deben elegir mas de dos por iteración.
+  * Se debe ayudar a el equipo a seleccionar las posibles mejoras que sean alcanzables y entregen efectos positivos.
+  * Si el equipo se esta recuperando de un cambio positivo o estresante se debe tomar un cambio menos complejo.
+  * Se debe asegurar el compromiso individual para alcanzar las mejoras, "las personas asumen que 'el equipo' hará la tarea, y nadie lo hace".
+  * Los equipos que creen que sus retrospectivas son una pérdida de tiempo a menudo mantienen sus planes de mejora completamente separados de sus planes de trabajo diarios.
+  * Los equipos que identifican a los grupos externos como la fuente de sus males y quieren que esas personas cambien terminan frustrados. Esperar a que otras personas cambien es un ejercicio inútil. El    lugar más poderoso para comenzar a cambiar es dentro del equipo.
+
+Cerrar la retrospectiva
+  * Se debe terminar la retrospectiva de manera decidida, no permitir que la energia o entisiamo bajen, por eso es importante terminar la reuión en el momento correcto.
+  * Se debe ayudar al equipo a decidir como retendrán lo aprendido, fotos, carteles ayudan, el aprendizaje le pertenece al equipo, "el equipo necesita ser dueño de ellos mismos".
+  * Cerrar la restrospectiva apreciando el trabajo hecho en la iteración y en la restrospectiva.
