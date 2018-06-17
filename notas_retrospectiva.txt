@@ -1,0 +1,13 @@
+Capitulo 2
+  * Antes de tomar decisiones, investiga.
+
+Aprendiendo sobre de la historia y el medio ambiente.
+  * Habla con los miembros del equipo acerca de temas como:
+    * ¿Qué produjo esta iteración? ¿A qué aspiraba el equipo? ¿Cómo te sientes con el resultado obtenido?.
+    * Como afecta el entorno de la empresa al equipo, ejemplos: rumores de despidos, proyectos cancelados, etc.
+    * ¿Cómo se encuentra la relación entre los miembros del equipo? (a nivel personal y de trabjo).
+    * ¿Qué sienten los miembros del equipo?, ¿Cuáles son sus preocupaciones o ansiedades?, ¿Qué les emociona?.
+    * ¿Que tipo de resultado sería valisos por tiempo inveritodo?.
+  * La información obtenida ayudará a formular un posible objetivo para la retrospectiva, entender la dinámica del equipo y establecer una relación con el equipo, conociiéndolo.
+
+
