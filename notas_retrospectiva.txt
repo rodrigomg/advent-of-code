@@ -10,4 +10,44 @@ Aprendiendo sobre de la historia y el medio ambiente.
     * ¿Que tipo de resultado sería valisos por tiempo inveritodo?.
   * La información obtenida ayudará a formular un posible objetivo para la retrospectiva, entender la dinámica del equipo y establecer una relación con el equipo, conociiéndolo.
 
+Dando forma al objetivo de la retrospectiva
+  * Respondiendo la pregunta siguiete puede ayudar a encontrar un objetivo útil:
+    * ¿Qué aportaría valor al tiempo invertido?
+  * Los objetivo útiles para una retrospectiva deberían incluir lo siguiente:
+    * Encotrar nuevas formar de mejorar lo que hoy hacemos.
+    * Descubrir lo que estamos haciendo bien.
+    * Encontar las razones de los objetivos no cumplidos.
+    * Encontrar formas de mejorar nuestra capacidad de respuesta a los clientes.
+    * Reconstruir relaciones dañadas.
+  * La mejora continua del proceso puede funcionar para un par de iteraciones, es necesario cambiarlo después de eso, se debe proponer un objetivo diferente o el equipo debe generar uno nuevo.
+
+Determinando la duración
+  * Se deben considerar 4 factores para determinar la duración:
+    * Duración de la iteración.
+    * Complejidad (tecnológica, organización del equipo, etc).
+    * Tamaño del equipo.
+    * Nivel de conflicto o controversia.
+  * Una retrospectiva de una hora puede ser suficiente para una iteración de una semana; un medio día puede ser suficiente para treinta días de trabajo.
+  * Siempre puede finalizar la retrospectiva anticipadamente si las personas identifican mejoras significativas y finalizan sus planes antes del tiempo.
+
+Estructurando la retrospectiva
+  * La estructura proporciona un orden natural para procesar información y mueve al equipo a una acción comprometida, ejemplo:
+    * Preparar el escenario       5%        6 minutos
+    * Reunir datos                30-50%    40 minutos
+    * Generar ideas               20-30%    25 minutos
+    * Decidir que hacer           15-20%    20 minutos
+    * Cerrar la retrospectiva     10%       12 minutos
+    * Tiempo aleatorio            10-15%    17 minutos
+  * Se debe tomar descanso cuando la energia del equipo baje o el equipo así lo solicite, por cada 90 minutos se debe tomar un descanso de al menos 10 minutos.
+  * Basado en los resultados que se desean obtener se debe evaluar la ubicación física de la retrospectiva, es decir, si son útiles los artefactos disponibles en el lugar de trabajo del equipo la retrospectiva puede ser en el mismo espacio de trabajo, si por el contrario es necesario refrescar al equipo se debería considerar cambiar el lugar donde se hará la reunión.
+  * Un círculo o semicírculo de sillas fomenta la participación porque las personas se pueden ver.
+  * De manera preferente no debe haber mesas en el lugar de reunión y si las hay se deberían poder mover o quitar.
+  * La clave es acercar a las personas en lugar de separarlas.
+
+Seleccionado actividades
+  * Las actividades ayudan al equipo a pasar por las fases de la retrospectiva. Las actividades proporcionan una estructura para ayudar al equipo a pensar en conjunto.
+  * Beneficios:
+    * Fomentar la igualdad de participación.
+    * Enfoca la conversación.
+    * Fomenta nuevas perspectivas.
 
