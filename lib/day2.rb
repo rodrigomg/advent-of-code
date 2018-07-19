@@ -12,4 +12,4 @@ f.each_line do |line|
 	total << (sideA + sideB+ sideC + minSide)
 end
 f.close
-puts total.inject(0){|sum,x| sum + x }
+puts total.reduce(:+)
