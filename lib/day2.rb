@@ -13,3 +13,18 @@ f.each_line do |line|
 end
 f.close
 puts total.reduce(:+)
+
+f = File.open("#{Dir.pwd}/input_day2.txt", "r")
+total = []
+ f.each_line do |line|
+  data =  line.split("x")
+	l = Integer(data[0])
+	w = Integer(data[1])
+	h = Integer(data[2])
+  transfarring = [l,w,h].sort().reverse()
+	a = transfarring.pop()
+  b = transfarring.pop()
+	total << ((a + a + b + b) + (l * w * h))
+end
+f.close
+puts total.reduce(:+)
