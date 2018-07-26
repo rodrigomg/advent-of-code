@@ -6,10 +6,11 @@ defmodule AdventofCode.Day3 do
 
   defp processs_list([], n) do
     IO.puts n
-    n
+    n + 1
   end
 
   defp processs_list([_h|t], n) do
+    IO.puts t
     processs_list(t, n + 1)
   end
 
