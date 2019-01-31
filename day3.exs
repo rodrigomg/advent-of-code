@@ -5,12 +5,12 @@ defmodule AdventofCode.Day3 do
   end
 
   defp processs_list([], n) do
-    IO.puts n
+    IO.puts "Pattern end: #{n}"
     n + 1
   end
 
   defp processs_list([_h|t], n) do
-    IO.puts t
+    IO.puts "Pattern iterate: #{t}"
     processs_list(t, n + 1)
   end
 
