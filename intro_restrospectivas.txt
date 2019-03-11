@@ -10,8 +10,8 @@
 7) Se agrupan elementos comunes y se cuestiona al equipo sobre ellos.
 8) Se decide cual es el problema o grupo principal analizado y se genera una lluvia de ideas para encontrar posibles soluciones, debe ser los mas organizado posible, por ejemplo dos ideas por persona.
 9) Se debe elegir acciones o compromisos a realizar en la siguiente iteración.
-10) De ser posible se selecciona el siguiente resposable de retroalimentación y se cierra la reunión.
-11) Se deben definir acuerdos o reglas que podráin aplicar para todas las retrospectivas, esto puedo tomar 10 o 15 minutos.
+10) De ser posible se selecciona el siguiente responsable de retroalimentación y se cierra la reunión.
+11) Se deben definir acuerdos o reglas que podrán aplicar para todas las retrospectivas, esto puedo tomar 10 o 15 minutos.
   * Un consejo es pedir al equipo que todos sean resposables de vigilar que las reglas se cumplan.
 
 Preparar el escenario
